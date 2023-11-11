@@ -1,0 +1,63 @@
+body{
+    background-color: beige;
+    font-family: "Georgia", serif;
+}
+p{
+    text-align: center;
+}
+.middle-title {
+  font-family: "Georgia", serif;
+  letter-spacing: 1.50px;
+}
+.title {
+    font-family: "Georgia", serif;
+  color: rgb(140, 0, 255);
+  text-align: center;
+}
+.kategori {
+  display: block;
+  text-align: center;
+  list-style: none;
+  padding-left: 0;
+}
+.menu li {
+  padding-right: 20;
+}
+.middle-title {
+  color: rgb(0, 45, 128);
+  font-family: "Georgia", serif;
+  text-align: center;
+}
+.menu{
+    text-align: center;
+    list-style: none;
+}
+
+.info {
+  text-align: center;
+}
+.bottom-title {
+  color: rgb(43, 137, 226);
+  text-align: center;
+}
+.bottom-menu {
+  text-align: center;
+  list-style-position: inside;
+  padding-left: 0;
+}
+.urunler-kategori {
+    text-align: center;
+    list-style: none;
+
+}
+.urun-img {
+    width: 400px;
+}
+.urun-menu {
+  text-align: center;
+  list-style: none;
+  padding-left: 0;
+}
+.urun-menu li {
+  list-style-position: inside;
+}
